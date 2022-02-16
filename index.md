@@ -35,6 +35,7 @@ business application integration.
 #### Professional Experience
 
 Total experience 16 years (3 years of client-side exposure in US and UK). 
+
 | Period       | Employer          |Location|Designation|
 |:-------------|:------------------|:------ |:----------|
 | Dec 2010- till date           | Royal Bank Of Scotland (RBS)/Natwest | Gurgoan  | Vice President |
